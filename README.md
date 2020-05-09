@@ -1,6 +1,7 @@
 # Docker Bench for Security
 
 ![Docker Bench for Security running](https://raw.githubusercontent.com/docker/docker-bench-security/master/benchmark_log.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flulukelu%2Fdocker-bench-security.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flulukelu%2Fdocker-bench-security?ref=badge_shield)
 
 The Docker Bench for Security is a script that checks for dozens of common
 best-practices around deploying Docker containers in production. The tests are
@@ -148,3 +149,7 @@ sudo sh docker-bench-security.sh
 
 This script was built to be POSIX 2004 compliant, so it should be portable
 across any Unix platform.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flulukelu%2Fdocker-bench-security.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flulukelu%2Fdocker-bench-security?ref=badge_large)
